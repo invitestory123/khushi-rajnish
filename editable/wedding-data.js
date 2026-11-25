@@ -90,10 +90,10 @@ window.WEDDING_DATA = {
   },
 
   gallery: [
-    { src: "./editable/assets/gallery-1.jpg", alt: "Mehndi night with henna and marigolds" },
-    { src: "./editable/assets/gallery-2.jpg", alt: "Sangeet dance floor with dhol and lights" },
-    { src: "./editable/assets/gallery-3.jpg", alt: "Decorated wedding mandap at golden hour" },
-    { src: "./editable/assets/gallery-4.jpg", alt: "Baraat procession with dhol players" },
+    { src: "./editable/assets/gallery-1.jpg", alt: "Khushi in embroidered maroon lehenga" },
+    { src: "./editable/assets/gallery-2.jpg", alt: "Rajnish and Khushi holding hands" },
+    { src: "./editable/assets/gallery-3.jpg", alt: "Rajnish and Khushi during ring ceremony" },
+    { src: "./editable/assets/gallery-4.jpg", alt: "Khushi showing her bridal mehndi" },
   ],
 
   closing: {
